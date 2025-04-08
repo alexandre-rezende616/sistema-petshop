@@ -1,0 +1,26 @@
+# Ignorar arquivos e pastas de compilação
+/bin/
+/build/
+/target/
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos gerados por testes ou builds
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar configurações pessoais do Eclipse
+*.iml
+.idea/
