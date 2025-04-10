@@ -52,6 +52,7 @@ public class Animal {
 		System.out.println("Peso: " +peso +" KG");
 	}
 	
+
 	
 	// Métodos que retornam o valor dos serviços básicos
 	public float banho() {
